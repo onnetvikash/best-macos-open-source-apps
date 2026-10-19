@@ -24,6 +24,7 @@ Every app below belongs to its original authors and is linked to its official re
 | AltTab | Windows-style alt-tab window switcher | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) |
 | IINA | Modern media player for macOS | [iina/iina](https://github.com/iina/iina) |
 | Logseq | Privacy-first knowledge base | [logseq/logseq](https://github.com/logseq/logseq) |
+| Glim | View documents, images, JSON, CSV and source code in one Mac workspace | [NeoPanic/Glim](https://github.com/NeoPanic/Glim) |
 
 ## Developer Tools
 
