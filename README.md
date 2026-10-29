@@ -19,6 +19,7 @@ Every app below belongs to its original authors and is linked to its official re
 | App | Description | Link |
 |-----|-------------|------|
 | Rectangle | Window management with keyboard shortcuts | [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) |
+| LayoutKeeper | Remembers window layouts across Spaces and external displays; syncs external brightness; USB-C port display arrangement; keep-awake modes | [tumingke0/LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) |
 | Maccy | Lightweight clipboard manager | [p0deje/Maccy](https://github.com/p0deje/Maccy) |
 | Stats | Menu bar system monitor | [exelban/stats](https://github.com/exelban/stats) |
 | AltTab | Windows-style alt-tab window switcher | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) |
