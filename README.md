@@ -30,6 +30,7 @@ Every app below belongs to its original authors and is linked to its official re
 | App | Description | Link |
 |-----|-------------|------|
 | Homebrew | The missing package manager for macOS | [Homebrew/brew](https://github.com/Homebrew/brew) |
+| Kilobat CLI | macOS command-line network monitoring and diagnostics with JSON output | [seifip/kilobat-cli](https://github.com/seifip/kilobat-cli) |
 | Alacritty | GPU-accelerated terminal emulator | [alacritty/alacritty](https://github.com/alacritty/alacritty) |
 | Kitty | Fast, feature-rich terminal | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) |
 | CotEditor | Lightweight native plain-text editor | [coteditor/CotEditor](https://github.com/coteditor/CotEditor) |
